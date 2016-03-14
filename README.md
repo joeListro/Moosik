@@ -1,6 +1,7 @@
 # Moosik
+> By Scott Franklin & Joseph Listro
+
 A mobile web music controller.
->By Scott Franklin & Joseph Listro
 ## Working Documentation / Program Logs
 ### Goal
 Create a dynamic web-based mp3 player.
@@ -15,7 +16,7 @@ Create a dynamic web-based mp3 player.
 ###Progress
 * Alpha v.0.000001 (3/09/2016 - 3/13/2016)
   * Unstyled HTML5 audio tag can switch between 2 songs without refreshing!
-  * Files uploaded: player.zip and test.js
+  * Files uploaded: *player.zip* and *test.js*
   * Audio styling
     * <audio> html5 tag is really cool: https://gist.github.com/afabbro/3759334
   * Scott is bad at css lol
