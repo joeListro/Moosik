@@ -1,0 +1,12 @@
+tr:nth-of-type(odd) {
+	background-color:#C2C2D6; /*shade every other one*/
+	}
+audio::-webkit-media-controls-panel{
+	/*background-color:#95B9C7; */
+	background-color:#ADFF2F;
+	}
+
+audio::-webkit-media-controls-timeline{ /* controls video time buffer */
+	background-color:#AD0AFD; 
+	/*background-color:#ADFF2F; */
+	}  
