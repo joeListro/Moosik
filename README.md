@@ -1,5 +1,5 @@
 # Moosik
-> By Scott Franklin & Joseph Listro
+> By Scott Franklin (@scott-franklin) & Joseph Listro (@joeListro)
 
 A mobile web music controller.
 ## Working Documentation / Program Logs
