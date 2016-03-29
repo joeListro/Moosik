@@ -19,7 +19,6 @@ Create a dynamic web-based mp3 player.
   * Files uploaded: *player.zip* and *test.js*
   * Audio styling
     * <audio> html5 tag is really cool: https://gist.github.com/afabbro/3759334
-  * Scott is bad at css lol
 * Alpha v.0.000001 (3/20/2016)
   * Added dynamic audio list population!
   * can point to any directory full of .mp3 files and the code will populate the page with the files and the onClick events function properly etc
